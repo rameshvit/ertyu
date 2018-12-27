@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>Mrelese</id>
-			<url>http://localhost:8081/nexus/content/repositories/mrelese/</url>
+			<id>srelese</id>
+			<url>http://localhost:8081/nexus/content/repositories/srelese/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Msnap</id>
-			<url>http://localhost:8081/nexus/content/repositories/msnap/</url>
+			<id>dsnap</id>
+			<url>http://localhost:8081/nexus/content/repositories/dsnap/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
